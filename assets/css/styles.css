@@ -1,0 +1,47 @@
+body{
+  background:rgb(244,244,244);
+}
+
+div.container{
+  background:#fff;
+  padding:0px;
+}
+
+nav.navbar.navbar-default{
+  background:#fff;
+  border:none;
+  border-radius:0px;
+  padding:5px;
+  margin-bottom:0px;
+}
+
+
+div.jumbotron{
+  border-radius:0px;
+  background:#abd0ff;
+}
+
+div.jumbotron{
+  border-radius:0px;
+}
+
+.btn.btn-success{
+  padding:10px 20px;
+  background:rgb(0,117,255);
+  border-color:rgb(0,117,255);
+  font-weight:bold;
+}
+
+.my-jum{
+  background:#abd0ff;
+  border-radius:0px;
+}
+
+
+.ju-title{
+  color:rgb(241,241,241);
+}
+
+.sonawap-bottom-link{
+}
+
